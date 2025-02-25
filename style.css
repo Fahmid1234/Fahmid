@@ -197,14 +197,13 @@ body {
 
 .about span {
     display: inline-block;
-    font-size: 1.0rem;
+    font-size: 1.2rem;
     color: #00ced1;
     font-weight: bold;
     margin-bottom: 1rem;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background: linear-gradient(135deg, #1e90ff, #00ced1);
-    -webkit-text-fill-color: transparent;
+    /* background: linear-gradient(135deg, #1e90ff, #00ced1); */
 }
 
 .header .about {
